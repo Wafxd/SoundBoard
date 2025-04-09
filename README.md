@@ -1,6 +1,8 @@
 Cara penggunaan!
 
 
+
+
 SOUND BOARD MANAGER
 
 Untuk CRUD sound, jalankan sound_manager.exe
@@ -9,6 +11,8 @@ Untuk CRUD sound, jalankan sound_manager.exe
 3. Klik button tambah thumbnail jika ingin memberi gambar sound board
 4. Simpan semua pengaturan jika sudah selesai
 5. Jika ingin menghapus, pilih sound yg ingin dihapus, lalu pilih hapus sound, kemudian jangan lupa untuk selalu di save
+
+
 
 
 SOUND BOARD PLAYER
