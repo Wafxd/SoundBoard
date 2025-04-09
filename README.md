@@ -2,6 +2,7 @@ Cara penggunaan!
 
 
 SOUND BOARD MANAGER
+
 Untuk CRUD sound, jalankan sound_manager.exe
 1. Tambah Sound dengan klik button tambah sound
 2. Klik list sound yang sudah tertampil di aplikasi, kemudian tambahkan tombol untuk setting start sound di sound board player
